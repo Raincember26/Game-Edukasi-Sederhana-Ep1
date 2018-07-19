@@ -1,0 +1,6 @@
+D:\File Pelajaran\Pemrograman Dasar\CSharp Pro\GameEdukasi\GameEdukasi\bin\Debug\GameEdukasi.exe.config
+D:\File Pelajaran\Pemrograman Dasar\CSharp Pro\GameEdukasi\GameEdukasi\bin\Debug\GameEdukasi.exe
+D:\File Pelajaran\Pemrograman Dasar\CSharp Pro\GameEdukasi\GameEdukasi\bin\Debug\GameEdukasi.pdb
+D:\File Pelajaran\Pemrograman Dasar\CSharp Pro\GameEdukasi\GameEdukasi\obj\Debug\GameEdukasi.csprojResolveAssemblyReference.cache
+D:\File Pelajaran\Pemrograman Dasar\CSharp Pro\GameEdukasi\GameEdukasi\obj\Debug\GameEdukasi.exe
+D:\File Pelajaran\Pemrograman Dasar\CSharp Pro\GameEdukasi\GameEdukasi\obj\Debug\GameEdukasi.pdb
