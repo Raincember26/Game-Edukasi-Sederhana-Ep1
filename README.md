@@ -8,5 +8,5 @@ This project is licensed GNU General Public License / GPL - see the [LICENSE.md]
 * **Galih Putra Windawan** - *Software Engineer* - [galihputra26](https://github.com/galihputra26)
 
 ## More Info
-* instagram    : galih_et (https://www.instagram.com/galih_et)
+* instagram   : galih_et (https://www.instagram.com/galih_et)
 * LinkedIn     : Galih Putra Windawan (https://www.linkedin.com/in/galih-putra-w-37973b154/)
