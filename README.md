@@ -1,4 +1,4 @@
-# Game-Edukasi-Sederhana-S1
+# Game-Edukasi-Sederhana-Ep1
 Game ini berisikan soal-soal untuk anak SD sederajat, pada game eps 1 ini terdapat soal bertema ibu kota sebuah negara, teman-teman dapat mengembangkan lagi game edukasi ini namun tetap mematuhi lisensi dari aplikasi ini.
 
 ## License
